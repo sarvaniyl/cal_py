@@ -5,7 +5,7 @@ This is a command-line calculator built using the **Command Pattern** and suppor
 ## Features
 - Supports **addition, subtraction, multiplication, division**.
 - Allows **dynamic plugin loading** to extend functionality.
-- Implements a **REPL (Read-Eval-Print Loop)** for an interactive experience.
+- Implements a **REPL** for an interactive experience.
 
 initial setup
 - Run : pip install -r requirements.txt
